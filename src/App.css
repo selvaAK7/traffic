@@ -1,0 +1,15 @@
+.container {
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #4a90e2;
+}
+
+.chart-container {
+  margin: 20px auto;
+  width: 80%;
+  max-width: 700px;
+}
